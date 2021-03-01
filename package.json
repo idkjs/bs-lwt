@@ -6,6 +6,6 @@
     "build": "bsb -make-world"
   },
   "dependencies": {
-    "bs-platform": "^1.7.3"
+    "bs-platform": "^9.0.1"
   }
 }
